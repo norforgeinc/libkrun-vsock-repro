@@ -1,0 +1,6 @@
+libkrun-main/
+vsock-repro
+root/
+root.ext4
+*.log
+libkrunfw/
